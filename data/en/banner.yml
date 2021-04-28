@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/innovative.webp"
+  bg_image : "images/backgrounds/innovative.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "We create new sounds for Your music"
+  content : "We are always exploring new methods to reach new musical horizons."
+  button:
+    enable : true
+    label : "What We Do"
+    link : "#services"
