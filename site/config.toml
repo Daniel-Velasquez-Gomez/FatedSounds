@@ -2,7 +2,7 @@
 baseURL = "https://www.fatedsounds.tk"
 title = "Fated Sounds!"
 theme = "meghna-hugo-master"
-themesDir = "../FatedSounds!/themes"
+themesDir = "../site/themes"
 # post pagination
 paginate = "6"
 # post excerpt
